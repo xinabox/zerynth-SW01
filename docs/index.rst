@@ -23,3 +23,4 @@ _______
  2. Normal Mode.
  3. Forced Mode.
 
+.. include:: __toc.rst
