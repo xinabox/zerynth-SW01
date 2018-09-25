@@ -1,0 +1,21 @@
+{
+    "fullname": "lib.xinabox.sw01",
+    "git_pointer": "github://xinabox/zerynth-SW01",
+    "title": "XinaBox SW01",
+    "description": "Module for XinaBox SW01 ambient temperature, humidity and pressure sensor",
+    "keywords": [
+        "temperature",
+        "pressure",
+        "humidity",
+        "sensor",
+        "BME280"
+    ],
+    "info": {
+        "chip_manufacturer": "XinaBox",
+        "chip_name": "SW01",
+        "name": "Temperature, Humidity, Pressure Sensor",
+        "type": "Sensor"
+    }, 
+    "repo": "official",
+    "version": "r2.1.2"
+}
