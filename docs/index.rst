@@ -14,13 +14,15 @@ Technical Details
 BME280
 _______
 * Operating Range:
- 1. Temperature: -40 to 85°C
- 2. Relative Humidity: 0 to 100%
- 3. Pressure: 300 to 1100 hPa
+
+  1. Temperature: -40 to 85°C
+  2. Relative Humidity: 0 to 100%
+  3. Pressure: 300 to 1100 hPa
 * Humidity Sensor and Pressure Sensor can be Independently Enabled/ Disabled.
 * 3 Power Modes:
- 1. Sleep Mode.
- 2. Normal Mode.
- 3. Forced Mode.
+
+  1. Sleep Mode.
+  2. Normal Mode.
+  3. Forced Mode.
 
 .. include:: __toc.rst
