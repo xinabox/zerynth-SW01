@@ -1,6 +1,6 @@
-=============
+*************
 XinaBox SW01
-=============
+*************
 This xChip is equipped with a weather sensor that is capable of measuring the temperature, humidity and atmospheric pressure.
 
 The humidity sensor provides an extremely fast responce time for fast context awareness application and high overall accuracy over a wide temperature range.
@@ -9,8 +9,9 @@ The pressure sensor is an absolute barometric pressure sensor with extremely hig
 
 The integrated temperature sensor has been optimized for lowest noise and highest resolution. Its output is used for temperature compensation of the pressure and humidity sensors and can also be used for estimation of the ambient temperature.
 
+==================
 Technical Details
-******************
+==================
 BME280
 _______
 * Operating Range:

@@ -9,7 +9,10 @@ The board is based off the BME280 manufactured by Bosch.
 The board uses I2C for communication.
 
 Data Sheets:
+
 - `BME280 <https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280_DS001-11.pdf>`_
+
+    
     
 ===============
  SW01 class
